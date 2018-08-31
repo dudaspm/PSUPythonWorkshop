@@ -1,1 +1,1 @@
-# PSUPythonWorkshop
+# PSU Python Workshop
