@@ -8,5 +8,12 @@ Pretty straight-forward.
 - Go to: https://twitter.com/
 - Then click "Sign Up"
 
-![alt text](twitterLogin.png "Logo Title Text 1")
+![Twitter Sign-up](twitterLogin.png "Twitter Sign-up")
 
+### Setting up a developer account
+- Once you have a Twitter account. Go to: https://developer.twitter.com/en/apply-for-access
+- On this screen click "Apply for a developer account"
+![apply For Developer Account](applyForDeveloperAccount.png "Apply For Developer Account")
+- Log-in using your twitter account information (username/password).
+- Lastly, fill in the relevant information and submit. 
+- After this is completed, keep an eye on your email. As you may receive an email in regards to needing additionally information before they can complete the account. 
