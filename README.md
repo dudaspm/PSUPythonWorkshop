@@ -1,9 +1,5 @@
 # PSU Python Workshop
 
-## Workshop 1 - Introduction to Python and Jupyter
+## Fall 2018 - Python was developed in Python 2.7
 
-## Workshop 2 - Reading in Data and Making Plots
-
-## Workshop 3 - Speeding Up Python
-
-## Workshop 4 - Web Scraping/Twitter API
+## Spring 2019 - Python was devloped in Python 3
